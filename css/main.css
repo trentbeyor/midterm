@@ -1,0 +1,57 @@
+.title {
+	font-family: Times;
+	color: gray;
+	text-align: center;
+}
+
+#bottomline {
+	font-size: 13px;
+}
+
+#button {
+	background: gray; 
+	font-family: Times;
+	font-size: 20px;
+	border: none;
+	margin: 0;
+	padding: 3px;
+	width: 200px;
+	margin-top: 20px;
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+	color: white;
+}
+
+#button:hover {
+	background: white; 
+	font-family: Times;
+	font-size: 20px;
+	border: none;
+	margin: 0;
+	padding: 3px;
+	width: 200px;
+	margin-top: 20px;
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+	color: gray;
+}
+
+#imageblock {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 800px;
+	height: 500px;
+	background-color: white;
+	-webkit-background-size: cover;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+body{
+	background-color: #e0d8d1;
+	background: cover;
+}
